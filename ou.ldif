@@ -1,0 +1,9 @@
+# Add the parent Organizational Unit "Information Technology"
+dn: ou=Information Technology,dc=example,dc=com
+objectClass: organizationalUnit
+ou: Information Technology
+
+
+dn: ou=Accounts,dc=example,dc=com
+objectClass: organizationalUnit
+ou: Accounts
